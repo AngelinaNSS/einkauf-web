@@ -1,0 +1,37 @@
+{
+  "voice_title": "Sprachanfrage",
+  "voice_prompt": "Drücken Sie den Knopf und sprechen Sie Ihren Einkaufswunsch.",
+  "start": "Aufnahme starten",
+  "stop": "Aufnahme stoppen",
+  "edit_request": "Bearbeiten Sie Ihre Anfrage:",
+  "send": "Anfrage senden",
+  "submitted": "Ihre Anfrage wurde erfolgreich übermittelt!",
+  "voice_not_supported": "❌ Spracherkennung wird von diesem Browser nicht unterstützt. Bitte verwenden Sie Google Chrome.",
+  "voice_placeholder": "Ihre gesprochene Anfrage erscheint hier...",
+
+  "welcome_title": "Willkommen bei Einkauf",
+  "welcome_description": "Verbindung von Studenten und Gemeindemitgliedern für Einkaufshilfe in ganz Deutschland.",
+  "login": "Anmelden",
+  "signup": "Registrieren",
+  "register": "Registrieren",
+  "home": "Startseite",
+  "find_students": "Studenten finden",
+  "request_help": "Hilfe anfordern",
+  "edit_profile": "Profil bearbeiten",
+  "privacy_policy": "Datenschutzbestimmungen",
+  "voice_request_button": "Sprachanfrage benutzen",
+
+  "Sign Up": "Registrieren",
+  "Signing up...": "Registrieren...",
+  "Full Name": "Vollständiger Name",
+  "Email address": "E-Mail-Adresse",
+  "Password": "Passwort",
+  "Select your role": "Wählen Sie Ihre Rolle",
+  "Student": "Student",
+  "Requester": "Anfragender",
+  "Please fill in all fields": "Bitte füllen Sie alle Felder aus",
+  "Password must be at least 6 characters": "Das Passwort muss mindestens 6 Zeichen lang sein",
+  "Already have an account?": "Sie haben bereits ein Konto?",
+  "Log in here": "Hier anmelden"
+}
+

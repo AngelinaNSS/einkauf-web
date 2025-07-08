@@ -1,0 +1,53 @@
+{
+  "voiceRequest": {
+    "title": "Voice Request",
+    "prompt": "Press the button and speak your grocery request.",
+    "startListening": "Start Listening",
+    "stopListening": "Stop Listening",
+    "editRequestLabel": "Edit your request below:",
+    "sendButton": "Send Request",
+    "submittedMessage": "Your request has been submitted successfully!",
+    "notSupportedMessage": "❌ Voice recognition is not supported in this browser. Please use Google Chrome.",
+    "placeholderText": "Your spoken request will appear here...",
+    "actionButton": "Use Voice to Request Help"
+  },
+
+  "welcome": {
+    "title": "Welcome to Einkauf",
+    "description": "Connecting students and community members for grocery support across Germany."
+  },
+
+  "auth": {
+    "login": "Login",
+    "signup": "Sign Up",
+    "signingUpMessage": "Signing up...",
+    "register": "Register",
+    "alreadyHaveAccountMessage": "Already have an account?",
+    "logInHereLink": "Log in here"
+  },
+
+  "signupForm": {
+    "labels": {
+      "fullName": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "selectRole": "Select your role",
+      "roleStudent": "Student",
+      "roleRequester": "Requester"
+    },
+    "errors": {
+      "fillAllFields": "Please fill in all fields",
+      "passwordLength": "Password must be at least 6 characters"
+    }
+  },
+
+  "navigation": {
+    "home": "Home",
+    "findStudents": "Match Students",
+    "requestHelp": "Request Help",
+    "editProfile": "Edit Profile",
+    "privacyPolicy": "Privacy Policy"
+  }
+}
+
+
